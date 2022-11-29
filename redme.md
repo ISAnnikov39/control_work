@@ -7,6 +7,9 @@
 
 <body>
 <?php
+$array = ['hello' , '2', '32', 'str' , 'fist'];
+$length = count($array);
+
 
 
 
